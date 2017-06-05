@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ComicsByKotlin</string>
+
+    <string name="tab_one">在线漫画</string>
+    <string name="tab_two">漫画列表</string>
+    <string name="tab_three">动漫资讯</string>
+
+</resources>
